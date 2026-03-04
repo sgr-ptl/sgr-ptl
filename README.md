@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself<br>👯 I’m looking to collaborate on core things <br>🤝 I’m looking for help with core<br>🌱 I’m currently learning enything<br>💬 Ask me about nothing<br>⚡ Fun fact not there
+🔭 I’m currently working on effective java coding<br>👯 I’m looking to collaborate on core things <br>🤝 I’m looking for help with core<br>🌱 I’m currently learning enythingrealted to java <br>💬 Ask me about nothing<br>⚡ Fun fact I am too lazy 
 
 
 ## 🌐 Socials:
